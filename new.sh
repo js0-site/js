@@ -19,6 +19,6 @@ cp -R _tmpl $1
 
 cd $1
 
-fd --type file --hidden --exclude .git -x sd "_tmpl" "$1" $@ "{}"
+fd --type file --hidden --exclude .git -x sd "_tmpl" "$1" {}
 
 git add .
