@@ -1,5 +1,5 @@
 {
-  "name": "@js0.site/webc",
+  "name": "@js0.site/x",
   "version": "0.1.0",
   "keywords":[],
   "description": "",
@@ -7,11 +7,10 @@
     "type": "git",
     "url": "git+https://github.com/js0-site/js.git"
   },
-  "homepage": "https://github.com/js0-site/js/tree/dev/webc",
+  "homepage": "https://github.com/js0-site/js/tree/dev/x",
   "author": "jssite@googlegroups.com",
   "license": "MulanPSL-2.0",
   "exports": {
-    ".": "./src/lib.js",
     "./*": "./src/*"
   },
   "files": [

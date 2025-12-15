@@ -11,7 +11,8 @@
   "author": "jssite@googlegroups.com",
   "license": "MulanPSL-2.0",
   "exports": {
-    ".": "./src/lib.js"
+    ".": "./src/lib.js",
+    "./*": "./src/*"
   },
   "files": [
     "src/*"
